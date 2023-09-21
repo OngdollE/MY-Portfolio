@@ -11,13 +11,10 @@ it회사를 다니며 개발을 동경했습니다
 백엔드 개발자를 꿈꾸며, 프론트도 잘 알고 있는 다재다능한 소프트웨어 개발자가 되고 싶습니다.
 
 <h3>🛠사용언어</h3>
-<div align=left><h1>사용 기술 정리</h1></div>
 
 <div align= left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
