@@ -2,19 +2,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blueheight=200&section=header&text=PORTFOLIO&fontSize=90" />
 </div>
 
+
+
 <div align= center> 
 <h2> 5월부터 개발공부 시작한 개발 새내기입니다~ </h2>
 </div>
+
+
 
 <div align= center> 
 <h3>시작</h3>
 만 28세에 처음 개발공부를 시작했습니다
 
+
+
 <h3>계기</h3>
 it회사를 다니며 개발을 동경했습니다
 
+
+
 <h3>목표</h3>
 백엔드 개발자를 꿈꾸며, 프론트도 잘 알고 있는 다재다능한 소프트웨어 개발자가 되고 싶습니다.
+
+
 
 <h3>🛠사용언어</h3>
 </div>
@@ -41,8 +51,11 @@ it회사를 다니며 개발을 동경했습니다
   <br>
 </div>
 
+
+
 <div align= center> 
 <h3>IT 경력사항</h3>
+
 
 |회사|기간|주요업무|
 |----------|-----------|----------|
@@ -53,4 +66,8 @@ it회사를 다니며 개발을 동경했습니다
 
 
 
+<div align= center>
+<h3>나에 대해 조금 더 알기</h3>
+<a href="https://velog.io/@ongong999"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</div>
 
