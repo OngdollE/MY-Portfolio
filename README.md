@@ -7,24 +7,24 @@
 <div align= center> 
 <h2> 5월부터 개발공부 시작한 개발 새내기입니다~ </h2>
 </div>
-
-
+ <br>
+ <br>
 
 <div align= center> 
 <h3>시작</h3>
 만 28세에 처음 개발공부를 시작했습니다
-
-
+ <br>
+ <br>
 
 <h3>계기</h3>
 it회사를 다니며 개발을 동경했습니다
-
-
+ <br>
+ <br>
 
 <h3>목표</h3>
 백엔드 개발자를 꿈꾸며, 프론트도 잘 알고 있는 다재다능한 소프트웨어 개발자가 되고 싶습니다.
-
-
+ <br>
+ <br>
 
 <h3>🛠사용언어</h3>
 </div>
@@ -50,8 +50,8 @@ it회사를 다니며 개발을 동경했습니다
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
-
+ <br>
+ <br>
 
 <div align= center> 
 <h3>IT 경력사항</h3>
@@ -63,7 +63,8 @@ it회사를 다니며 개발을 동경했습니다
 |인포뱅크|2022년 10월 ~ 2023년 5월|챗봇 디자인 빌드|
 
 </div>
-
+ <br>
+ <br>
 
 <div align= center>
 <h3>나에 대해 조금 더 알기</h3>
