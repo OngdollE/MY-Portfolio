@@ -65,7 +65,6 @@ it회사를 다니며 개발을 동경했습니다
 </div>
 
 
-
 <div align= center>
 <h3>나에 대해 조금 더 알기</h3>
 <a href="https://velog.io/@ongong999"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
