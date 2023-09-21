@@ -3,7 +3,7 @@
 </div>
 
 <div align= center> 
-<h2>>5월부터 개발공부 시작한 개발 새내기입니다~/h2
+<h2>5월부터 개발공부 시작한 개발 새내기입니다~</h2>
 </div>
 
 <div align= center> 
