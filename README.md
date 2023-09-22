@@ -94,6 +94,12 @@ it회사를 다니며 개발을 동경했습니다
  <br>
 
 <div align= center> 
+<h3>자격증(업데이트 예정)</h3>
+👑토익: 850
+ <br>
+ <br>
+
+<div align= center> 
 <h3>🎯이메일 주소</h3>
 insideplatform@naver.com <br>
 checkmateong94@gmail.com
