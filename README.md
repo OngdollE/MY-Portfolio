@@ -95,8 +95,8 @@ it회사를 다니며 개발을 동경했습니다
 
 <div align= center> 
 <h3>🎯이메일 주소</h3>
-insideplatform@naver.com
-checkmateong94@gmail;.com
+insideplatform@naver.com <br>
+checkmateong94@gmail.com
 </div>
  <br>
  <br>
