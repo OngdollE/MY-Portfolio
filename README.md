@@ -11,6 +11,14 @@
 
 
 <div align= center> 
+
+<h3>생년월일</h3>
+1994.12.26
+ <br>
+ <br>
+
+ 
+ 
 <h3>시작</h3>
 만 28세에 처음 개발공부를 시작했습니다
  <br>
@@ -66,6 +74,11 @@ it회사를 다니며 개발을 동경했습니다
 </div>
  <br>
  <br>
+
+<h3>이메일 주소</h3>
+insideplatform@naver.com
+checkmateong94@gmail;.com
+
 
 <div align= center>
 <h3>나에 대해 조금 더 알기</h3>
