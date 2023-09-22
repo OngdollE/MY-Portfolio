@@ -8,7 +8,7 @@
 <h2> 🌿5월부터 개발공부 시작한 개발 새내기입니다~🌿 </h2>
 <br> 
 
- <h3>학력</h3> 
+ <h3>✏️학력</h3> 
 
 |학교|전공|학점|
 |----------|-----------|-----------|
@@ -17,7 +17,7 @@
  <br>
  <br>
 
-<h3>생년월일</h3>    
+<h3>📆생년월일</h3>    
 1994.12.26
  <br>
  <br>
@@ -45,7 +45,7 @@ it회사를 다니며 개발을 동경했습니다
 
 
 <div align= center> 
-  <h4>상</h4>
+  <h4>🔩상</h4>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -57,13 +57,13 @@ it회사를 다니며 개발을 동경했습니다
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 
-  <h4>중</h4>
+  <h4>🔩중</h4>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
 
-  <h4>하</h4>
+  <h4>🔩하</h4>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
@@ -94,7 +94,7 @@ it회사를 다니며 개발을 동경했습니다
  <br>
 
 <div align= center> 
-<h3>이메일 주소</h3>
+<h3>🎯이메일 주소</h3>
 insideplatform@naver.com
 checkmateong94@gmail;.com
 </div>
@@ -102,7 +102,7 @@ checkmateong94@gmail;.com
  <br>
 
 <div align= center>
-<h3>나에 대해 조금 더 알기</h3>
+<h3>📖나에 대해 조금 더 알기</h3>
 <a href="https://velog.io/@ongong999"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 
