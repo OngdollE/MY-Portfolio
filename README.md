@@ -46,7 +46,9 @@ it회사를 다니며 개발을 동경했습니다
 <h3>🛠사용언어</h3>
 </div>
 
+
 <div align= center> 
+  <h4>상</h4>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
